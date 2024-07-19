@@ -18,7 +18,7 @@ void APIPIGameState::Countdown()
 	{
 		
 		mins += 1;
-		secs = 59;
+		secs = 0;
 		
 	}
 }
